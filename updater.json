@@ -7,4 +7,14 @@
       "url": "https://github.com/SujalMBInfoways/OYaarUpdater/raw/main/oyaar_0.0.1_x64-setup.nsis.zip"
     }
   }
+},
+{
+  "version": "0.0.2",
+  "notes": "WOW Version",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTHlSaVB4ME9FTGhyaTNGYmFkb0dhM0MxMmk5M29UWlhkMGJCYUhSTjZZK0dITUZVYkdDd0xFZzVTTHp6MytYNDhHNHNVQTNtV1BVRkcwSC84M3FFNHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3Njc3NDk4CWZpbGU6b3lhYXJfMC4wLjJfeDY0LXNldHVwLm5zaXMuemlwCmtxbEV6Qjlaa3pYOUtjNzNHUUhkcnlsZGZoYjEzNERqa3VSbGhSZDB1U1NpQ0FsTUQ1MkNaTFVsSU45NDQ5SlJQVVE0TkIwSkc1WnRqZGxmZklKVENBPT0K",
+      "url": "https://github.com/SujalMBInfoways/OYaarUpdater/raw/main/oyaar_0.0.2_x64-setup.nsis.zip"
+    }
+  }
 }
