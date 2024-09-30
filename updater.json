@@ -1,4 +1,4 @@
-{
+[{
   "version": "0.0.1",
   "notes": "Test version",
   "platforms": {
@@ -17,4 +17,4 @@
       "url": "https://github.com/SujalMBInfoways/OYaarUpdater/raw/main/oyaar_0.0.2_x64-setup.nsis.zip"
     }
   }
-}
+}]
