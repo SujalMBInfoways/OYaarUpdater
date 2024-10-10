@@ -1,10 +1,10 @@
 {
-  "version": "0.0.0",
-  "notes": "New version",
+  "version": "",
+  "notes": "",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTDIxQm5Rd282S0RBVThyOXZjVEF5ZHMwVVFyZHRaSHVmUkNDdm1aVzdMWWxYTEVBMWNCdDIzOFVYQnpZZThBaWQzOXorZTdSUnBxaUhkcE9PbWZCN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTM1Mzg0CWZpbGU6b3lhYXJfMS4wLjBfeDY0LXNldHVwLm5zaXMuemlwCkQ0NmEzUk1GNEw1SXdPUnVDNDZGZFVxQnVtMHFTZVV6RFQvcndxYkpFYit5dnN6M3V3eE4xS0ZlUCt1TFpJdEEzTEkyelY0aXJ5STAvTkdVenNoaUNnPT0K",
-      "url": "https://github.com/SujalMBInfoways/OYaarUpdater/raw/main/oyaar_1.0.0_x64-setup.nsis.zip"
+      "signature": "",
+      "url": ""
     }
   }
 }
